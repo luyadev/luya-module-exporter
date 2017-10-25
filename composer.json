@@ -1,7 +1,7 @@
 {
     "name" : "luyadev/luya-module-exporter",
     "description" : "The exporter module allows you to easy download the full databse and storage data from a project to import them local.",
-    "type" : "luya-module",
+    "type" : "project",
     "keywords" : ["php", "luya", "module", "export", "storage", "sql", "download", "preproduction", "dev", "yii2", "yii", "luya-module"],
     "license": "MIT",
     "homepage" : "http://luya.io",
